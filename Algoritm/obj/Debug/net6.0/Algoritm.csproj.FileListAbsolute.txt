@@ -1,0 +1,15 @@
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.csproj.AssemblyReference.cache
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.AssemblyInfoInputs.cache
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.AssemblyInfo.cs
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\bin\Debug\net6.0\Algoritm.exe
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\bin\Debug\net6.0\Algoritm.deps.json
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\bin\Debug\net6.0\Algoritm.runtimeconfig.json
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\bin\Debug\net6.0\Algoritm.dll
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\bin\Debug\net6.0\Algoritm.pdb
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.dll
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\refint\Algoritm.dll
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.pdb
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\Algoritm.genruntimeconfig.cache
+C:\Users\Елизавета\Desktop\Work\FinalWork\Algoritm\obj\Debug\net6.0\ref\Algoritm.dll
