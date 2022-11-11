@@ -5,26 +5,39 @@
 Console.Clear();
 
 string[] firstArray = FillArray();
-string[] secondArray = new string[firstArray.Length];
-resultArray(firstArray, secondArray);
+string[] secondArray = resultArray(firstArray, 3);
 Console.WriteLine($"[{string.Join(", ",firstArray)}] -> [{string.Join(", ",secondArray)}]");
 
-void resultArray(string[] inputArray, string[] outputArray)
+string[] resultArray(string[] inputArray, int len)
 {
-  int count = 0;
-  int len = 3;
-    for (int i = 0; i < inputArray.Length; i++)
+  string[] outputArray = new string[CountElements(inputArray, len)];
+  int k = 0;
+  for (int i = 0; i < inputArray.Length; i++)
     {
     if(inputArray[i].Length <= len)
         {
-        outputArray[count] = inputArray[i];
-        count++;
+        outputArray[k] = inputArray[i];
+        k++;
         }
     }
+  return outputArray;
+}
+
+int CountElements(string[] inputArray, int len)
+{
+  int count = 0;
+  for (int i = 0; i < inputArray.Length; i++)
+    {
+    if(inputArray[i].Length <= len)
+    {
+    count++;
+    }
+  }
+  return count;
 }
 
 string[] FillArray() 
 {
     Console.Write("Введите элементы массива через пробел: ");
-    return Console.ReadLine().Split(" ");
+    return Console.ReadLine()!.Split(" ");
 }
